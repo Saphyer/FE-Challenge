@@ -155,15 +155,16 @@ display: none;
 }
 
 .li-line {
-  background-color: #0056B3;
-  color: #ffffff;
+  color: #000000;
   text-align: center;
   width: 50px;
   height: 50px;
   float: left;
   font-size: 17px;
   padding-top: 15px;
-  border-radius: 4px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #000000;
 }
 
 .li-dest {
@@ -179,15 +180,16 @@ display: none;
 }
 
 .li-eta {
-  background-color: #0056B3;
-  color: #ffffff;
+  color: #000000;
   text-align: center;
   width: 79px;
   height: 50px;
   float: left;
   font-size: 17px;
   padding-top: 15px;
-  border-radius: 4px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #000000;
 }
 
 .li-freq {
@@ -198,10 +200,14 @@ display: none;
   margin-top: -18px;
 }
 
+.reroute {
+  background-color: #FF0533;
+}
+
 .fade {
   opacity: 0.5;
 }
 
 .out {
-background-color: #B30021;
+background-color: #99999f;
 }
