@@ -34,7 +34,7 @@ i{
   border: none;
   color: #ffffff;
   font-size:20px;
-  background-color: #0056B3;
+  background-color: #3a3e6f;
   text-align: center;
   line-height: 60px;
 }
@@ -49,7 +49,7 @@ i{
 }
 
 #busnumber {
-  background-color: #407d3b;
+  background-color: #6369dE;
   color: #ffffff;
   font-size: 20px;
   text-align: center;
@@ -58,11 +58,10 @@ i{
   margin-left: 20px;
   float: left;
   line-height: 61px;
-
 }
 
 #mins {
-  background-color: #407d3b;
+  background-color: #6369de;
   color: #ffffff;
   font-size: 20px;
   text-align: center;
@@ -71,12 +70,11 @@ i{
   float: right;
   line-height: 61px;
   margin-right: 25px;
-
 }
 
 .section2 {
   border: none;
-  background-color: #0056B3;
+  background-color: #3a3e6f;
   height: 90px;
   padding: 20px;
   padding-bottom: 10px;
@@ -108,7 +106,7 @@ hr {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
-  background-color:#407d3b;
+  background-color:#6369de;
   color: white;
   padding-left: 20px;
 }
@@ -173,7 +171,6 @@ display: none;
   font-weight: 500;
   padding-left: 30px;
   padding-top: 8px;
-  border-radius: 4px;
 }
 
 .li-eta {
@@ -195,7 +192,8 @@ display: none;
 }
 
 .reroute {
-  background-color: #FF3b30;
+  background-color: #EB0c00;
+  padding-top: 15px;
 }
 
 .fade {
@@ -204,4 +202,5 @@ display: none;
 
 .out {
 background-color: #99999f;
+padding-top: 15px;
 }
