@@ -9,4 +9,4 @@ Riders want to know what the next arriving bus is and how much time they have to
 
 Simply rushing to the stop when you see a bus coming no longer works because it might not be the bus the rider is expecting.
 
-![busybus image](https://github.com/Saphyer/FE-Challenge/blob/master/images/busybus-image.png "BusyBus Image"
+![busybus Image](https://github.com/Saphyer/FE-Challenge/blob/master/images/busybus-image.png "BusyBus Image")
